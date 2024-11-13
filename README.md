@@ -28,6 +28,8 @@ Viewers on chat will be able to interact via bot commands:
 
 
 Available commands:
+
+```
 "!spawnmob <nome_do_mob> - spawn a mob around a player."
 "example: !spawnmob zombie"
 "!random_effect - apply a random troll effect to a player."
@@ -36,3 +38,4 @@ Available commands:
 "!timeset <day|night|midnight|evening> - Change the game time."
 "!weather <rain|sun|storm> - change the weather."
 "!trident - send tridents to all online players."
+```
