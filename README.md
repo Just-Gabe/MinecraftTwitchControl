@@ -24,7 +24,7 @@ bot = commands.Bot(
     initial_channels=[CHANNEL_NAME]
 ```
 
-Viewers on chat will be able to interact via bot commands:
+Viewers on chat will be able to interact via bot commands.
 
 
 Available commands:
